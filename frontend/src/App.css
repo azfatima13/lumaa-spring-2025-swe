@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  align-items: flex-start; /* Adjusts vertical alignment to the top */
+  justify-content: center; /* Keeps it centered horizontally */
+  height: 100vh; /* Full viewport height */
+  padding-top: 10vh; /* Adds top padding to lower the box */
+  background-color: yellow; /* Sets the background color of the entire page */
+}
